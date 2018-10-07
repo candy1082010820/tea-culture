@@ -59,6 +59,10 @@ h1{
 	margin-bottom: 30px;
 	margin-left: -15px;
 }
+.copy a{
+	float: right;
+	font-size: 5px;
+}
 .leg img{
 	position: fixed;        
 	bottom: 50px;           
