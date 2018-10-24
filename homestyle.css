@@ -1,0 +1,87 @@
+ol, ul {
+	list-style: none;
+}
+body{
+	background-color: #fbecde;
+}
+#big{
+	width: 1200px;
+
+	margin: 0 auto;
+}
+.tag{
+	height: 150px;
+	width: 150px;
+	border-radius: 10px;}
+.tag img{
+	width: 80%;
+	margin-top: 50px;
+	margin-left: 10px;
+}
+.lab ul{
+	float: right;
+	width: 1000px;
+	margin-top: -60px;
+	margin-left: 40px;
+}
+.lab li{
+	float: left;
+	margin-right: 10px;
+	height: 50px;
+	width: 140px;
+	border-radius: 5px;
+}
+.lab li:hover{
+	background-color: #a4aca7;
+	transition-duration: 0.3s;
+}
+.lab ul a{
+	display: block;
+	font-family: 標楷體;
+	font-size: 25px;
+	color: black;
+	font-weight: bolder;
+	line-height: 50px;
+	text-align: center;
+}
+.lab a:hover{
+	color: white;
+	transition-duration: 0.3s;
+}
+.fix{clear: both;
+}
+.main{
+	width: 1000px;
+	height: 555px;
+	margin-top: 20px;
+}
+
+.main1{
+	width: 300px;
+	float: right;
+	margin-top: 300px;
+	display: none;
+}
+.main2{
+	width: 225px;
+	float: right;
+	margin-right: -220px;
+	display: none;
+}
+.main3{
+	width: 60px;
+	margin-left: 630px;
+	display: none;
+}
+.main4{
+	width: 60px;
+	margin-top: -555px;
+	margin-left: 540px;
+	display: none;
+}
+.main5{
+	width: 60px;
+	margin-top: -555px;
+	margin-left: 450px;
+	display: none;
+}
