@@ -59,6 +59,27 @@ h1{
 	margin-bottom: 30px;
 	margin-left: -15px;
 }
+.word ul{
+	margin-bottom: 30px;
+}
+.word2 li{
+	margin-left: 40px;
+	text-align:justify;
+	color: #ff0000;
+}
+.word2 h2{
+	font-size: 30px;
+}
+.word2 p{
+	color: black;
+	font-size: 20px;
+	line-height: 1.5;
+	margin: 0px;
+	padding:0px;
+}
+.word2 img{
+	margin-left:200px;
+}
 .copy a{
 	float: right;
 	font-size: 5px;
