@@ -1,5 +1,5 @@
 html{font-family: 標楷體}
-body{background-color: #f8df72}
+body{background-color: #fbecde}
 .big{
 	width: 1000px;
 	margin: 0 auto;
@@ -8,31 +8,41 @@ body{background-color: #f8df72}
 h1{
 	font-size: 40px;
 	text-align: center;
-	margin-bottom: 30px;
+	margin-bottom: 60px;
 }
 .fix{
 	clear: both;
 }
-.top a{
-	background-color: #ecf2df;
-	display: block;
-	border: 1.5px solid #b8b8aa;
-	margin-right: 2px;
-	margin-left: 2px;
-	color: 	#75664d;
-	float: left;
-	font-size: 20px;
-}
+
 .top ul{
-	list-style: none;
 	float: right;
-	margin-bottom: 30px;
+	width: 1000px;
+	margin-top: -40px;
+	margin-right: -55px;
+	list-style: none;
 }
 .top li{
-	height: 40px;
-	margin-right: 35px;
-	margin-left: 35px;
-	line-height: 35px;
+	float: left;
+	margin-right: 10px;
+	height: 50px;
+	width: 140px;
+	border-radius: 5px;
+}
+.top li:hover{
+	background-color: #a4aca7;
+	transition-duration: 0.3s;
+}
+.top ul a{
+	display: block;
+	font-size: 25px;
+	color: black;
+	font-weight: bolder;
+	line-height: 50px;
+	text-align: center;
+}
+.top a:hover{
+	color: white;
+	transition-duration: 0.3s;
 }
 .word li{
 	margin-left: 40px;
@@ -79,6 +89,7 @@ h1{
 }
 .word2 img{
 	margin-left:200px;
+
 }
 .copy a{
 	float: right;
