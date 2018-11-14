@@ -95,6 +95,10 @@ h1{
 	float: right;
 	font-size: 5px;
 }
+.copy h3{
+	float: right;
+	font-size: 5px;
+}
 .leg img{
 	position: fixed;        
 	bottom: 50px;           
